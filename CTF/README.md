@@ -1,9 +1,9 @@
 # CTF para a TAG 2 de WEB do PSGRIS
 
 ## Habilidades requeridas
-** Command injection
-** Estenografia
-** Base64
+* Command injection
+* Estenografia
+* Base64
 
 ## Copyright and License
 
