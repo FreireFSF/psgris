@@ -48,10 +48,11 @@
 
 <form method="get">
    <input type="text" name='email'>
-   <input type="submit">
+   <br>
+   <br>
+   <input type="submit" class="btn btn-secondary" >
 </form>
-                <button class="btn btn-secondary" type="button">Notify Me!</button>
-              </div>
+                </div>
             </div>
           </div>
         </div>
